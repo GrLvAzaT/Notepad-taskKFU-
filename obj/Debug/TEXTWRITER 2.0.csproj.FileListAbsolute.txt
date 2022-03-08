@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\bin\Debug\TEXTWRITER 2.0.exe.config
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\bin\Debug\TEXTWRITER 2.0.exe
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\bin\Debug\TEXTWRITER 2.0.pdb
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER 2.0.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER_2._0.Form1.resources
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER_2._0.Properties.Resources.resources
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER 2.0.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER 2.0.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER 2.0.exe
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER 2.0.pdb
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\bin\Debug\MetroFramework.dll
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER 2.0.csproj.CopyComplete
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER_2._0.FeedBack.resources
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER_2._0.Form2.resources
+C:\Users\User\source\repos\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER_2._0.Form3.resources
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\bin\Debug\TEXTWRITER 2.0.exe.config
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\bin\Debug\TEXTWRITER 2.0.exe
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\bin\Debug\TEXTWRITER 2.0.pdb
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER 2.0.csprojAssemblyReference.cache
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER_2._0.FeedBack.resources
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER_2._0.Form1.resources
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER_2._0.Form2.resources
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER_2._0.Form3.resources
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER_2._0.Properties.Resources.resources
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER 2.0.csproj.GenerateResource.cache
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER 2.0.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER 2.0.csproj.CopyComplete
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER 2.0.exe
+C:\Users\User\Desktop\СИСТЕМА ))))\Programms on C#\TEXTWRITER 2.0\TEXTWRITER 2.0\obj\Debug\TEXTWRITER 2.0.pdb
